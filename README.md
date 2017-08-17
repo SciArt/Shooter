@@ -11,4 +11,5 @@ NOTE2: SFML headers were edited by me to support serialization (from boost lib),
 
 If you want to ask me something about this project feel free to contact me via e-mail: contact@science-artificer.com
 
+Screenshot:
 ![](https://raw.githubusercontent.com/SciArt/Shooter/master/shooter.png)
